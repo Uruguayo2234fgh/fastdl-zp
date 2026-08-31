@@ -1,0 +1,95 @@
+=================RUSSIAN===============================
+
+=======================================================
+zm_sand_new для Counter-Strike 1.6 a Half-Life Modification
+Беларусь                               февраль 18, 2009
+=======================================================
+
+------Общая информация-----------------------------
+
+Название           : zm_sand_new
+Версия             : 1.0 final
+Автор              : Дмитрий «DimeX»
+E-mail             : dimexby@mail.ru
+Другие карты       : X-Zm_maps - best maps
+Инфо               : Двенадцатая карта из моей коллекции X-Zm_maps
+
+------Игровая информация---------------------------
+
+Мод                : Counter-Strike: Zombie mod
+Макс число игроков : 32
+
+------Информация о создании карты------------------
+
+На чем основана    : Remake моей  карты zm_sand
+Время создания     : 1 день
+Время компиляции   : 0ч:4мин
+
+------Об карте-------------------------------------
+
+Zm_sand_new - это remake моей карты zm_sand. Добавлено несколько огневых точек. Поставлены
+модели на карту. Добавлено несколько новых текстур. На карте есть 3 секрета. Любителям 1
+части, новая часть понравится в двойне :).
+
+------Авторские права------------------------------
+
+Если у вас возникли проблемы, вопросы и т.д. по поводу карты, пишите на мой e-mail.
+
+
+
+Все карты из X-Zm_maps: ze_project, zm_cave_new, zm_city_new, zm_deathalley_new,
+zm_ds_army_new, zm_dust2_final, zm_freebase, zm_gorod_new, zm_officeb2_new, zm_oldstreet,
+zm_orlingbase_new, zm_sand_new, zm_smallnightmare_new, zm_tower_new, zm_toxichouse_new,
+zm_zombattack_new.
+
+
+
+
+
+
+
+
+
+=================ENGLISH===============================
+
+=======================================================
+zm_sand_new For Counter-Strike 1.6 a Half-Life Modification
+Belarus                               February 18, 2009
+=======================================================
+
+------the General information-----------------------------
+
+The name             : zm_sand_new
+The version          : 1.0 final
+The author           : Dmitry «DimeX»
+E-mail               : dimexby@mail.ru
+Other maps           : X-Zm_maps - best maps
+Info                 : the Twelfth map from my collection X-Zm_maps
+
+------the Game information---------------------------
+
+Mod                  : Counter-Strike: Zombie mod
+Max players          : 32
+
+------the Information on map creation------------------
+
+On what it is based  : Remake my map zm_sand
+Creation time        : 1 day
+Compilation time     : 0h:4min
+
+------About a map-------------------------------------
+
+Zm_sand_new Is remake my map zm_sand. Fire points are added some. Are put
+models on a map. New structures are added some. On a map there are 3 secrets. To fans 1
+the parts, the new part is pleasant in twins :).
+
+------Copyrights------------------------------
+
+If you had problems, questions and other concerning a map, write on mine e-mail.
+
+
+
+All maps from X-Zm_maps: ze_project, zm_cave_new, zm_city_new, zm_deathalley_new,
+zm_ds_army_new, zm_dust2_final, zm_freebase, zm_gorod_new, zm_officeb2_new, zm_oldstreet,
+zm_orlingbase_new, zm_sand_new, zm_smallnightmare_new, zm_tower_new, zm_toxichouse_new,
+zm_zombattack_new.
